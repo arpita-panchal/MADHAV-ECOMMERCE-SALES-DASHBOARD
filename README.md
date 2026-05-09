@@ -99,29 +99,9 @@ Key fields include:
 - Printers generate the highest profit among sub-categories.
 - Maharashtra records the highest sales.
 - Profit peaks in January and December.
-- A small number of customers contribute significantly to revenue.
+- A small number of customers contribute significantly to revenue
 
----
-
-## 🖼 Dashboard Preview
-![Dashboard Screenshot](dashboard.png)
-
----
-
-## 📁 Repository Contents
-- `MADHAV ECOMMERCE SALES DASHBOARD.pbix` – Power BI dashboard file
-- `README.md` – Project documentation
-- `dashboard.png` – Dashboard screenshot
-
----
-
-## 🚀 How to Use
-1. Download the `.pbix` file.
-2. Open it in Power BI Desktop.
-3. Explore the dashboard using slicers and filters.
-4. Interact with charts to drill into insights.
-
----
+  ---
 
 ## 💼 Skills Demonstrated
 - Data Cleaning and Transformation
@@ -130,6 +110,3 @@ Key fields include:
 - KPI Development
 - Interactive Dashboard Design
 - Business Insight Generation
-
----
-⭐ If you like this project, consider giving this repository a star!
