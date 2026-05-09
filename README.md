@@ -14,6 +14,7 @@ The dashboard provides insights into:
 - Quantity by Payment Mode
 - Profit by Sub-Category
 - Top Customers by Sales
+
 This project demonstrates skills in data cleaning, data modeling, DAX calculations and dashboard design using Power BI.
 ---
 
