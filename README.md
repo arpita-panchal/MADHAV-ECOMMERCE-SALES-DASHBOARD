@@ -1,8 +1,8 @@
-# MADHAV ECOMMERCE SALES DASHBOARD
+# MADHAV E-COMMERCE SALES DASHBOARD
 
 📌 Project Overview
 
-This project is an interactive Power BI dashboard created to analyze ecommerce sales performance for the fictional Madhav Store.
+This project is an interactive Power BI dashboard created to analyze e-commerce sales performance for the fictional Madhav Store.
 
 The dashboard provides insights into:
 - Total Sales Amount
