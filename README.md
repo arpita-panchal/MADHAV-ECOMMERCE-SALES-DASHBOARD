@@ -4,7 +4,7 @@ An interactive **Power BI dashboard** built to analyze e-commerce sales performa
 
 ---
 
-# 📌 Short Description
+# 📌 Description
 
 The **Madhav E-Commerce Sales Dashboard** provides a comprehensive overview of sales performance by tracking revenue, profit, order quantity, customer purchasing behavior, and product categories. It helps business owners and analysts identify top-performing regions, products, customers, and seasonal trends through interactive visualizations.
 
